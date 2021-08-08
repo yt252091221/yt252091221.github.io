@@ -2,7 +2,6 @@
 .highlight table pre { margin: 0; }
 .highlight .gh {
   color: #999999;
-
 }
 .highlight .sr {
   color: #f6aa11;
@@ -173,7 +172,7 @@
 }
 .highlight {
   color: #ffffff;
-  background-color:#cfe6fa;
+  background-color: #272822;
 }
 .highlight .n, .highlight .py, .highlight .nx {
   color: #ffffff;
