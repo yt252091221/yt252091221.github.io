@@ -11,7 +11,7 @@ description: "学习心得 / 摘要笔记"
 ### 视频网站
 相机测试
 <blockquote>
-  【1】"无人船辅助激光雷达在跨河测量中的应用_刘冰洋"
+  【1】<a href="http://www.qishunwang.net/news_show_98775.aspx" target="_blank">树莓派SCI相机调试和预览</a>
 </blockquote>
 云台测试
 <blockquote>
