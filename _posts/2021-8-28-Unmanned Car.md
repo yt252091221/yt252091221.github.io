@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unmanned Car
-header-img: "img/boat.jpg"
+header-img: "img/Car.png"
 tag:
 - Learning
 - Pp
