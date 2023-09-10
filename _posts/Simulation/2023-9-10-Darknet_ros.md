@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Darknet_ros在Ubuntu20.04中的编译
-header-img: "img/hezuo.png"
+header-img: "img/darknet.png"
 tag:
 - 仿真
 - XTDrone
